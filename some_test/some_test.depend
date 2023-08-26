@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1693014233 source:c:\users\niyil\onedrive\desktop\some_test\scrnsize.c
+	<windows.h>
+	<tchar.h>
+	<stdio.h>
+
+1693059865 source:c:\users\niyil\onedrive\desktop\some_test\hellowin.c
+	<windows.h>
+

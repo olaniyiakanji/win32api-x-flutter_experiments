@@ -1,0 +1,4 @@
+win32*/bin/*
+some_test/bin/*
+
+**/*.cbp

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693010771 source:c:\users\niyil\onedrive\desktop\win32api_io_experiment\scrnsize.c
+	<windows.h>
+	<tchar.h>
+	<stdio.h>
+
